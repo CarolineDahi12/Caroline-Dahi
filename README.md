@@ -7,10 +7,10 @@
 ## 📌 About me
 📚 I am a Graduated at Faculty of Computers & Informatics at Aleppo University <br/>
 🧑‍💻 I love turning problems into solutions through the power of software. <br/>
-💻 I am a Back-End Developer (.Net Core or Laravel) <br/>
-😌 I’m currently open to new opportunities — check out  [My Resume](https://docs.google.com/document/d/1XzzW8O2_Z4zXFtrfYRrZXcKH_x3eGguU-qxsBNk-APE/edit?tab=t.0). <br/>
+💻 I am a Back-End Developer (.Net Core & Laravel) <br/>
+😌 I’m currently looking forward new opportunities — check out  [My Resume](https://docs.google.com/document/d/1XzzW8O2_Z4zXFtrfYRrZXcKH_x3eGguU-qxsBNk-APE/edit?tab=t.0). <br/>
 🤓 Passionate about continuous learning and exploring new technologies.<br/>
-🚀 Currently working as an **online team leader**, mentoring developers and driving projects to success.<br/>
+🚀 **Freelance remote developer** & **team leader** — guiding teams to deliver impactful projects.<br/>
 
 ## 🛠 Tech Stack
 <p >
